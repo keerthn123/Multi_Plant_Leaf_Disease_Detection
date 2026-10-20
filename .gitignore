@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Datasets and archives
+data/raw/
+data/processed/
+Plant_Diseases_Leakage_Reduced/
+*.zip
+*.7z
+*.tar
+*.tar.gz
+
+# Model weights and outputs
+*.pt
+*.pth
+*.h5
+*.keras
+*.onnx
+*.joblib
+*.pkl
+checkpoints/
+runs/
+wandb/
+
+# IDE and operating system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+.env.*
+!.env.example
