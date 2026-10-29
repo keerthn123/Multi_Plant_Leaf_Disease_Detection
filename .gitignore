@@ -36,3 +36,8 @@ Thumbs.db
 .env
 .env.*
 !.env.example
+
+# Generated feature caches - keep locally, do not upload
+data/hog_cache/
+data/hsv_cache/
+data/lbp_cache/
