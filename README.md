@@ -140,8 +140,10 @@ python src/audit_dataset.py --root "C:\Intro_TO_AI_Project\Plant_Diseases_Leakag
 - [x] Dataset preparation and splitting
 - [x] Dataset integrity checks
 - [x] Exact-hash separation check
-- [ ] HOG + SVM
-- [ ] Random Forest
+- [x] HOG + HSV + LBP
+- [x] SVM
+- [x] Random Forest
+- [x] Light GBM
 - [ ] PCA + K-means
 - [ ] Deep learning
 - [ ] Foundation models
