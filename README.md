@@ -151,6 +151,5 @@ python src/audit_dataset.py --root "C:\Intro_TO_AI_Project\Plant_Diseases_Leakag
 
 ## Dataset Attribution
 
-Please consult the Kaggle dataset page for its current licence and attribution
-requirements before redistributing dataset images.
+
 
