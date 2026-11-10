@@ -161,3 +161,5 @@ At the very least, I expected you to open the GitHub repository, go through the 
 
 Please go through the GitHub repository and contact me so we can discuss the current progress and your contribution to the remaining work. of foundation model.
 
+Note if you don't want to work with me you are free to leave the group and join in another group you can contact prof Joseph.
+
