@@ -1,0 +1,7 @@
+Dimensions,Covariance,Converged,Iterations,Training_Time,Silhouette,ARI,NMI,Homogeneity,Completeness,Warnings
+20,diag,True,34,3.15,0.0836,0.2006,0.415,0.3996,0.4316,0
+20,tied,True,3,2.41,-0.0325,0.1417,0.3365,0.3175,0.3579,0
+20,full,True,33,17.66,0.0544,0.2192,0.4412,0.4159,0.4698,0
+50,diag,True,44,5.59,0.0467,0.2207,0.4542,0.4313,0.4797,0
+50,tied,True,19,3.88,-0.1098,0.0227,0.2235,0.1728,0.3163,0
+50,full,True,57,38.17,0.0251,0.2128,0.4572,0.4255,0.494,0

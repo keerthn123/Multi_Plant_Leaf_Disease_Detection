@@ -1,0 +1,11 @@
+File,Exists
+results/unsupervised_learning/kmeans_gmm_comparison.csv,True
+results/unsupervised_learning/cluster_purity_analysis.csv,True
+results/unsupervised_learning/final_clustering_comparison.csv,True
+results/unsupervised_learning/pca/gpu_pca_summary.json,True
+results/unsupervised_learning/plots/01_kmeans_elbow.png,True
+results/unsupervised_learning/plots/02_kmeans_internal_metrics.png,True
+results/unsupervised_learning/plots/03_external_metrics_comparison.png,True
+results/unsupervised_learning/plots/04_gmm_aic_bic.png,True
+results/unsupervised_learning/plots/05_final_model_comparison.png,True
+results/unsupervised_learning/pca/global_pca_variance.png,True

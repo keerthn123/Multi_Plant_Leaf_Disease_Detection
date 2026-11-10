@@ -1,0 +1,36 @@
+{
+  "pipeline": "Fresh train-fitted PCA without extra global scaling",
+  "test_samples": 5273,
+  "feature_pca_variance_percent": {
+    "HOG": 94.9440689086914,
+    "HSV": 94.96222686767578,
+    "LBP": 96.89496612548828
+  },
+  "global_pca_50d_variance_percent": 27.154190063476562,
+  "feature_block_scaling": {
+    "HOG": 3.3596700598024483,
+    "HSV": 2.1868688150715188,
+    "LBP": 3.112796169669561
+  },
+  "results": [
+    {
+      "Model": "K-Means (K=19)",
+      "Silhouette": 0.051243845373392105,
+      "ARI": 0.11021495252580288,
+      "NMI": 0.2925502138001826,
+      "Purity": 0.26360705480750996,
+      "Homogeneity": 0.2854518907861829,
+      "Completeness": 0.3000105669473999
+    },
+    {
+      "Model": "GMM (K=30)",
+      "Silhouette": -0.013339126482605934,
+      "ARI": 0.14423853450157686,
+      "NMI": 0.37275186095971974,
+      "Purity": 0.3608951261141665,
+      "Homogeneity": 0.3861152071284439,
+      "Completeness": 0.36028257540752295
+    }
+  ],
+  "limitation": "Fresh PCA and clustering models were fitted on training data. These are not the exact original validation-fitted models."
+}

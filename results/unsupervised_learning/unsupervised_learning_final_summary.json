@@ -1,0 +1,15 @@
+{
+    "Project": "Plant Leaf Disease Classification and Representation Analysis",
+    "Dataset_Classes": 19,
+    "Training_Samples": 24630,
+    "Validation_Samples": 5278,
+    "Test_Set": "Reserved for final evaluation",
+    "Selected_Representation": "Combined PCA 50D",
+    "KMeans_Best_Final_Silhouette": 0.1118,
+    "GMM_Best_Final_Configuration": "K=30",
+    "GMM_ARI": 0.27,
+    "GMM_NMI": 0.5,
+    "GMM_Purity": 0.5121,
+    "GMM_Homogeneity": 0.517,
+    "GMM_Completeness": 0.484
+}

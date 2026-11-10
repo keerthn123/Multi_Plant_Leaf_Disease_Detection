@@ -1,0 +1,7 @@
+Representation,Components,Covariance,Iterations,Converged,Training_Time,Training_AIC,Training_BIC,Silhouette,ARI,NMI
+Combined_PCA,5,diag,19,True,9.47,-356711087.13,-356522538.3,0.0536,0.0511,0.1734
+Combined_PCA,10,diag,100,False,75.17,-357185905.15,-356808799.38,0.001,0.0586,0.245
+Combined_PCA,15,diag,81,True,28.76,-357444006.37,-356878343.65,-0.038,0.0731,0.2906
+Combined_PCA,19,diag,100,False,41.25,-357647813.01,-356931304.74,-0.0144,0.0673,0.2927
+Combined_PCA,23,diag,43,True,38.81,-357767475.59,-356900121.77,-0.0314,0.0867,0.3244
+Combined_PCA,30,diag,58,True,36.59,-358060613.94,-356929280.39,-0.0408,0.0951,0.3425

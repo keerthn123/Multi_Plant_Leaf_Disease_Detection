@@ -1,0 +1,35 @@
+{
+  "test_samples": 5273,
+  "feature_pca_variance_percent": {
+    "HOG": 94.9440689086914,
+    "HSV": 94.96222686767578,
+    "LBP": 96.89496612548828
+  },
+  "global_pca_50d_variance_percent": 55.93442153930664,
+  "feature_block_scaling": {
+    "HOG": 151.89276042503877,
+    "HSV": 36.396750876555586,
+    "LBP": 5.391521119473471
+  },
+  "results": [
+    {
+      "Model": "K-Means (K=19)",
+      "Silhouette": 0.09430760890245438,
+      "ARI": 0.11156252826428717,
+      "NMI": 0.33750468104004366,
+      "Purity": 0.2292812440735824,
+      "Homogeneity": 0.27417878514136723,
+      "Completeness": 0.43886817847003534
+    },
+    {
+      "Model": "GMM (K=30)",
+      "Silhouette": -0.13600261509418488,
+      "ARI": 0.08395082630825121,
+      "NMI": 0.29303112155197647,
+      "Purity": 0.2505215247487199,
+      "Homogeneity": 0.24595932067304882,
+      "Completeness": 0.36238440535430777
+    }
+  ],
+  "note": "Fresh PCA and clustering models fitted on training data only. Uses row-wise RMS feature-block scaling."
+}

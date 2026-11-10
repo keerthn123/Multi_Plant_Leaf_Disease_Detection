@@ -1,0 +1,26 @@
+{
+    "HOG": {
+        "original_dimensions": 8100,
+        "components_calculated": 512,
+        "variance_retained_percent": 62.243247985839844,
+        "components_for_95_percent": null
+    },
+    "HSV": {
+        "original_dimensions": 512,
+        "components_calculated": 512,
+        "variance_retained_percent": 100.01032257080078,
+        "components_for_95_percent": 277
+    },
+    "LBP": {
+        "original_dimensions": 10,
+        "components_calculated": 10,
+        "variance_retained_percent": 100.00019073486328,
+        "components_for_95_percent": 3
+    },
+    "HOG_1024": {
+        "original_dimensions": 8100,
+        "components_calculated": 1024,
+        "variance_retained_percent": 77.90782165527344,
+        "components_for_95_percent": null
+    }
+}
