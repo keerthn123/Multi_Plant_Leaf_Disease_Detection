@@ -144,7 +144,7 @@ python src/audit_dataset.py --root "C:\Intro_TO_AI_Project\Plant_Diseases_Leakag
 - [x] SVM
 - [x] Random Forest
 - [x] Light GBM
-- [ ] PCA + K-means
+- [x] PCA + K-means + GMM
 - [ ] Deep learning
 - [ ] Foundation models
 - [ ] Adaptation and final comparison
