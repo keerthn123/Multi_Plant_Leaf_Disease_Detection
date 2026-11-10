@@ -151,5 +151,13 @@ python src/audit_dataset.py --root "C:\Intro_TO_AI_Project\Plant_Diseases_Leakag
 
 ## Dataset Attribution
 
+## Thanya, I want to make something clear regarding this project.
 
+So far, I have completed almost everything on my own. The supervised learning and unsupervised learning parts are completed, and I have already started working on the deep learning models. You haven't contributed to the project so far.
+
+I shared the GitHub link with you almost a month ago, but it seems you haven't even opened it or taken the time to check the code, understand the workflow, or see what progress has been made.
+
+At the very least, I expected you to open the GitHub repository, go through the implementation, and understand what is happening in the project. I cannot be expected to handle the entire project alone while it is supposed to be a collaborative effort.
+
+Please go through the GitHub repository and contact me so we can discuss the current progress and your contribution to the remaining work. of foundation model.
 
